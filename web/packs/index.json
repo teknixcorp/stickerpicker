@@ -1,0 +1,14 @@
+{
+  "packs": [
+    "teknixCT.json",
+    "AllTheMemes.json",
+    "StickerMeoMeme.json",
+    "noletuban9.json",
+    "MoGim.json",
+    "TekBozzzzz.json",
+    "TeknixCEO.json",
+    "tuannk.json",
+    "Panpahehuoc.json"
+  ],
+  "homeserver_url": "https://matrix.teknix.vn"
+}
